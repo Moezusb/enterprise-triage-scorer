@@ -8,7 +8,7 @@
 
 Every enterprise support team eventually builds the same broken architecture: one general queue, manual ticket picking, and priority labels that carry no operational consequence. A cancellation request from a $50K ARR account waits behind a password reset. An after-hours SSO outage sits until morning. Agents open four systems to answer one question.
 
-The result is visible in the metrics: enterprise accounts churn at 2–4x the rate of SMB accounts, and support responsiveness is the most-cited cancellation reason. The fix is not more agents — it is routing intelligence applied at intake.
+The cost lands on the accounts that matter most: the customers with the most revenue at stake wait in the same line as everyone else. The fix is not more agents. It is routing intelligence applied at intake.
 
 This scorer does that deterministically.
 
